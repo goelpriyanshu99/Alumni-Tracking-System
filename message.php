@@ -110,7 +110,7 @@ input[type=button],button{
 if(isset($_POST['sub'])){
 
 //Your authentication key
-$authKey = "313734A42Qo0bE5e22b54cP1";
+$authKey = "ur auth key{private}";
 
 //Multiple mobiles numbers separated by comma
 $mobileNumber = $_POST['mob'];
