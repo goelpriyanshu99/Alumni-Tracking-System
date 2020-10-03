@@ -1,4 +1,8 @@
 # alumni_tracking_system
+
+Smart India Hackathon project with message and mail function.
+Using HTML,CSS,PHP,BOOTSTRAP,MYSQL,JAVASCRIPT
+
 Sih Hackathon project with message and mail function.
 This is a web based online alumni tracking system helps institutes strategically build and maintain their alumni network, by facilitating engagement, community-building, networking, communications and many other methods. And thus a secondary array of positive marketing takes place. With this, the Alumni data can be centralized and combined to use it in any future endeavours.
 Alumni System is a online application system which can act as a interactive medium between the old student and the School, College, University or institution. An Online Alumni System is a web based application which helps the institutions to track old students and to track them for future endeavours. At the same time it helps the alumni to communicate with the institution, may be a school, or college or a university and with the old batch mates. TechnoDG has developed one of the best online alumni system available in the market. The system has been developed keeping in mind about the changing scenario of the market.
@@ -16,3 +20,4 @@ Search can be year wise, country wise, name wise, in case of India - state wise
 Form mail based communication method between the alumni
 Admin option to edit / delete / register new alumni
 Admin option to send common mailer to all alumni
+
